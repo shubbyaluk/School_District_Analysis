@@ -1,0 +1,26 @@
+# Overview
+## The analysis of the school district results was repeated to account for the dishonestly reported results of the Thomas High School ninth graders. The analysis seeks to understand the top 5 and bottom 5 performing schools, the average math and reading scores at each grade level from each school, and the impact of spending, school size and school tyep of students grades. Finally, the analysis seeks to understand how the removal of the Thomas High School ninth graders' grades impacts the school district results
+
+# Results
+## District Summary
+### Removing the Thomas High School 9th grade results very slightly lowers the % overall passing for the district from 65.2 to 64.1. It doesn't significantly alter the averages. ![district_summary_wthomas](district_summary_wthomas) ![district_summary_wothomas](district_summary_wothomas)
+
+## School Summary
+* Similarly, removing the Thomas High School 9th grade results very slightly brings the passing rate of Thomas High School down. It otherwise does not materially affect the school summary ![per_school_summary_wthomas](per_school_summary_wthomas) vs ![per_school_summary_woThomas](per_school_summary_woThomas) 
+
+* Even with the removal of its ninth grade students' grades, Thomas High School is still the 2nd highest performing school in the district
+
+## Math and Reading Scores
+* Similarly, the math and reading scores didn't materially change by grades removing the Thomas High School 9th graders' grades.![math_scores_by_grade_wthomas](math_scores_by_grade_wthomas) vs ![math_scores_by_grade_wothomas](math_scores_by_grade_wothomas) and ![reading_scores_by_grade_wthomas](reading_scores_by_grade_wthomas) vs ![reading_scores_by_grade_wothomas](reading_scores_by_grade_wothomas)
+
+## School Spending
+* Scores per dollar spent on a student was similarly unaffected ![school_spending_wthomas](school_spending_wthomas) vs ![school_spending_wothomas](school_spending_wothomas)
+
+## Scores by school size
+* Scores per student was similarly unaffected ![school_per_student_wthomas](school_per_student_wthomas) vs ![school_per_student_wothomas](school_per_student_wothomas)
+
+## Scores by type
+* Again, no significant changes observed in the score by type analysis when Thomas High School's 9th grade scores are removed. ![scores_type_wthomas](scores_type_wthomas) vs ![scores_type_wothomas](scores_type_wothomas)
+
+# Summary
+## In summary, relatively limited changes were observe with the average math and reading scores by grade, grades per $ spent on each student, scores per size of school and scores per type of school.
